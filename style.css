@@ -170,21 +170,6 @@ body {
     margin-top: 1.5vw;
 }
 
-.home .full-screen .informat .block {
-    background-color: transparent;
-    text-align: left;
-    line-height: 6vh;
-}
-
-.home .full-screen .informat .block h1 {
-    color: white;
-}
-
-.home .full-screen .informat .block h5 {
-    background: none;
-    color: white;
-}
-
 .intro-text span::after {
     content: "Design";
     color: thistle;
@@ -290,7 +275,6 @@ body {
 
 
 /* Connect Section */
-
 #connect {
     background-color: yellowgreen;
 }
